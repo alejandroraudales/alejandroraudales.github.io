@@ -478,6 +478,10 @@ h6,
 #header2-1 .mbr-section-text {
   text-align: left;
 }
+#header3-26 .mbr-section-title,
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
+}
 #features4-r .card-subtitle {
   color: #bcbcbc;
 }
@@ -759,6 +763,10 @@ h6,
 #menu-1b .link[aria-expanded="true"],
 #menu-1b .dropdown-item[aria-expanded="true"] {
   color: #a9cfe6!important;
+}
+#header3-24 .mbr-section-title,
+#header3-24 .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts1-1c STRONG {
   color: #acbdc2;
