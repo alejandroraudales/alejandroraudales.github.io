@@ -1616,7 +1616,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-214.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-215.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
