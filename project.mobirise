@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 88,
+    "uniqCompNum": 90,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -253,7 +253,7 @@
               "color": "black"
             }
           },
-          "title1": "Goal #1",
+          "title1": "Graduation",
           "subtitle1": "",
           "caption1": "•\tGraduate with a weighted 4.0 GPA and receive a scholarship in the fields of Graphic Design or Animation",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -269,7 +269,7 @@
               "color": "black"
             }
           },
-          "title2": "Goal #2",
+          "title2": "Certification",
           "subtitle2": "",
           "caption2": "• Obtain certification for Adobe Photoshop and Microsoft Office Applications such as Word and Powerpoint.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -285,7 +285,7 @@
               "color": "black"
             }
           },
-          "title3": "Goal #3",
+          "title3": "University",
           "subtitle3": "",
           "caption3": "• Attend a university in the fields of Graphic Design or Animation and maintain a high GPA throughout.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -301,7 +301,7 @@
               "color": "black"
             }
           },
-          "title4": "Goal #4",
+          "title4": "Animation Career",
           "subtitle4": "",
           "caption4": "• Achieve a job to work at Pixar or Disney for the production of animation films&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1598,7 +1598,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-211.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-212.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
