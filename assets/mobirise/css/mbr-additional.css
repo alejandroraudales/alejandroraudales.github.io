@@ -489,6 +489,9 @@ h6,
   background-color: #cee6f7;
   border-color: #cee6f7;
 }
+#content1-2i P {
+  text-align: center;
+}
 #social-buttons2-y .mbr-section-title,
 #social-buttons2-y .btn-social {
   color: #232323;
@@ -585,11 +588,11 @@ h6,
   color: #ffffff;
 }
 #menu-z .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-z .dropdown-item,
 #menu-z .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-z .link:hover,
 #menu-z .dropdown-item:hover,
@@ -653,11 +656,11 @@ h6,
   color: #ffffff;
 }
 #menu-11 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-11 .dropdown-item,
 #menu-11 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-11 .link:hover,
 #menu-11 .dropdown-item:hover,

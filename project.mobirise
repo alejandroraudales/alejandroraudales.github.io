@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -197,7 +197,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Goals",
@@ -225,7 +225,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -285,9 +285,9 @@
               "color": "black"
             }
           },
-          "title3": "University",
+          "title3": "Art Improvement",
           "subtitle3": "",
-          "caption3": "• Attend a university in the fields of Graphic Design or Animation and maintain a high GPA throughout.",
+          "caption3": "• Learn how to use watercolor,&nbsp;acrylics, charcoal, and different designs of art to improve overall.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -340,12 +340,30 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>&nbsp;\"Open-mindedness is not a fracture the skull\" &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">-Unknown</span></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content2",
           "_anchor": "content2-25",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "6",
-            "bgColor": "#fff"
+            "paddingTop": "0",
+            "paddingBottom": "5",
+            "bgColor": "#ffffff"
           },
           "text": "<br><blockquote><p><b style=\"font-style: normal;\">Bio (Continued)</b></p><p><br></p><p>This was only noticed when I had entered the technology class in the 6th grade. We had projects involving the functions of Photoshop, and at that moment it was as if everything clicked together. I continued being in the same class, learning about making websites in Dreamweaver and Drawings in Illustrator. Whenever we would do animation, however, I was more excited than any other projects. Once I graduate, I want to pursue my career focusing on 3D animation, and possibly even work in Disney or Pixar.</p></blockquote>"
         },
@@ -527,8 +545,8 @@
           "_anchor": "header3-1i",
           "_params": {
             "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingBottom": "2",
+            "bgColor": "#c9e5ff",
             "showMeta": true
           },
           "title": "Photoshop",
@@ -684,10 +702,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -764,9 +782,9 @@
           "_name": "header3",
           "_anchor": "header3-1m",
           "_params": {
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#c9e5ff",
             "showMeta": true
           },
           "title": "Adobe Illustrator",
@@ -803,16 +821,6 @@
                 "active": false
               },
               {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2979-800x1191.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x2979.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -841,14 +849,24 @@
                 "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-banner-1-2000x503.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2979-800x1191.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2979.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "spacing": "4",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery2-21",
@@ -923,10 +941,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1005,7 +1023,7 @@
           "_params": {
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#c9e5ff",
             "showMeta": true
           },
           "title": "123D Design",
@@ -1598,7 +1616,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-212.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-213.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
