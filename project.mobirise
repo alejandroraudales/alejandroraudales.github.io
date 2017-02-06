@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "adobephotoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -341,18 +341,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-2i",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>&nbsp;\"Open-mindedness is not a fracture the skull\" &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">-Unknown</span></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>&nbsp;\"Open-mindedness is not a fracture the skull\" &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">-Unknown</span></p>"
         },
         {
           "_tags": [
@@ -544,7 +544,7 @@
           "_name": "header3",
           "_anchor": "header3-1i",
           "_params": {
-            "paddingTop": "7",
+            "paddingTop": "6",
             "paddingBottom": "2",
             "bgColor": "#c9e5ff",
             "showMeta": true
@@ -569,7 +569,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/window-insert2-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/window-insert2-2000x2962.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -600,6 +600,16 @@
                 "image": "@PROJECT_PATH@/assets/images/company-logo-2000x1200.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1616,7 +1626,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-215.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-210.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
