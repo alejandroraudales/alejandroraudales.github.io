@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "adobephotoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -562,12 +562,12 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/window-insert2-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/window-insert2-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/visions-of-color-poster-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/visions-of-color-poster-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -582,12 +582,32 @@
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/visions-of-color-poster-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/visions-of-color-poster-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/window-insert2-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/window-insert2-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/postcards-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/postcards-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -600,16 +620,6 @@
                 "image": "@PROJECT_PATH@/assets/images/company-logo-2000x1200.jpg",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
               },
               {
                 "tags": "Awesome",
@@ -807,19 +817,9 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
+            "paddingTop": "0",
             "paddingBottom": 4,
             "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1998-800x799.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-2000x1998.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Responsive",
                 "playVideo": false,
@@ -831,12 +831,72 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/master-2000x1538-800x615.jpg",
-                "image": "@PROJECT_PATH@/assets/images/master-2000x1538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/face-1-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/face-1-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/face-2-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/face-2-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/face-3-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/face-3-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1998-800x799.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2000x1998.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-1-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-1-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2979-800x1191.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2979.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -858,23 +918,33 @@
                 "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-banner-1-2000x503-800x201.jpg",
                 "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-banner-1-2000x503.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2979-800x1191.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x2979.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/master-2000x1538-800x615.jpg",
+                "image": "@PROJECT_PATH@/assets/images/master-2000x1538.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/google-banner-2000x800-800x320.jpg",
+                "image": "@PROJECT_PATH@/assets/images/google-banner-2000x800.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#c9e5ff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
