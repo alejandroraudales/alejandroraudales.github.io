@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 
 
 
@@ -427,6 +430,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.6rem;
@@ -502,6 +506,7 @@ h6,
 #contacts1-3 STRONG {
   color: #acbdc2;
 }
+
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -518,6 +523,7 @@ h6,
 #menu-4 .link,
 #menu-4 .dropdown-item {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-4 .link {
   font-size: 0.6rem;
