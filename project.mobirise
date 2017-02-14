@@ -261,7 +261,7 @@
           },
           "title1": "Graduation",
           "subtitle1": "",
-          "caption1": "•\tGraduate with a weighted 4.0 GPA and receive a scholarship in the fields of Graphic Design or Animation",
+          "caption1": "•\tGraduate with a weighted 4.0 GPA and receive a scholarship in the fields of Graphic Design or Animation.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -309,7 +309,7 @@
           },
           "title4": "Animation Career",
           "subtitle4": "",
-          "caption4": "• Achieve a job to work at Pixar or Disney for the production of animation films&nbsp;",
+          "caption4": "• Achieve a job to work at Pixar or Disney for the production of animation films.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -468,8 +468,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.6rem"
@@ -558,7 +558,7 @@
           "_params": {
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#c9e5ff",
+            "bgColor": "#cccccc",
             "showMeta": true
           },
           "title": "Photoshop",
@@ -657,7 +657,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#cccccc",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -731,7 +731,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
               "font-size": "0.6rem"
@@ -774,9 +776,9 @@
             "bgColor": "#2e2f35",
             "fontSize": "0.6",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -820,7 +822,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "2",
-            "bgColor": "#c9e5ff",
+            "bgColor": "#cccccc",
             "showMeta": true
           },
           "title": "Adobe Illustrator",
@@ -843,6 +845,46 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x2026-800x810.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tattoo-2000x2026.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-1-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-1-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2979-800x1191.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2979.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1998-800x799.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2000x1998.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -881,48 +923,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1998-800x799.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-2000x1998.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-1-full-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-1-full-2000x2962.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2-full-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2-full-2000x2962.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2979-800x1191.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x2979.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-1-2000x1437-800x574.jpg",
                 "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-1-2000x1437.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/google-banner-2000x800-800x320.jpg",
+                "image": "@PROJECT_PATH@/assets/images/google-banner-2000x800.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -937,12 +949,12 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/master-2000x1538-800x615.jpg",
-                "image": "@PROJECT_PATH@/assets/images/master-2000x1538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-2-2000x515-800x206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-2-2000x515.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -951,16 +963,26 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/google-banner-2000x800-800x320.jpg",
-                "image": "@PROJECT_PATH@/assets/images/google-banner-2000x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-3-2000x518-800x207.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-3-2000x518.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/master-2000x1538-800x615.jpg",
+                "image": "@PROJECT_PATH@/assets/images/master-2000x1538.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#c9e5ff",
+            "bgColor": "#cccccc",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -1412,10 +1434,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1451,7 +1473,11 @@
           "_params": {
             "bgColor": "#2e2f35",
             "fontSize": "0.6",
-            "fontName": {},
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,

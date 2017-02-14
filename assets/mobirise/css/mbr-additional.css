@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -523,7 +522,7 @@ h6,
 #menu-4 .link,
 #menu-4 .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-4 .link {
   font-size: 0.6rem;
@@ -576,6 +575,7 @@ h6,
 #contacts1-5 STRONG {
   color: #acbdc2;
 }
+
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -592,6 +592,7 @@ h6,
 #menu-z .link,
 #menu-z .dropdown-item {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-z .link {
   font-size: 0.6rem;
@@ -798,11 +799,11 @@ h6,
   color: #ffffff;
 }
 #menu-1d .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-1d .dropdown-item,
 #menu-1d .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-1d .link:hover,
 #menu-1d .dropdown-item:hover,
