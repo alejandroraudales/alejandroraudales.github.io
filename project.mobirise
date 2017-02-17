@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "adobephotoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -556,7 +556,7 @@
           "_name": "header3",
           "_anchor": "header3-1i",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "7",
             "paddingBottom": "2",
             "bgColor": "#cccccc",
             "showMeta": true
@@ -604,12 +604,32 @@
                 "active": false
               },
               {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/monopoly-board-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/monopoly-board-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/postcards-full-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/postcards-full-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ahhhhhh-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ahhhhhh-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -618,8 +638,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-perception-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-perception-full-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -628,28 +648,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/company-logo-2000x1200-800x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/company-logo-2000x1200.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/monopoly-box-cover-2000x1534-800x613.jpg",
-                "image": "@PROJECT_PATH@/assets/images/monopoly-box-cover-2000x1534.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/monopoly-board-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/monopoly-board-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
