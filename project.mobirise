@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "adobephotoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -822,7 +822,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "2",
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "Adobe Illustrator",
@@ -843,8 +843,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x2026-800x810.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tattoo-2000x2026.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/owlssssssss-1-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/owlssssssss-1-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -883,8 +883,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1998-800x799.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-2000x1998.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/google-banner-full-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/google-banner-full-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -923,8 +923,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-1-2000x1437-800x574.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-1-2000x1437.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bannerqsz-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bannerqsz-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -933,38 +933,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/google-banner-2000x800-800x320.jpg",
-                "image": "@PROJECT_PATH@/assets/images/google-banner-2000x800.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-banner-1-2000x503-800x201.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-banner-1-2000x503.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-2-2000x515-800x206.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-2-2000x515.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-3-2000x518-800x207.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alejandro-raudales-mas-3-2000x518.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/god-mic-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/god-mic-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -973,8 +943,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/master-2000x1538-800x615.jpg",
-                "image": "@PROJECT_PATH@/assets/images/master-2000x1538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sjh-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sjh-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -982,7 +952,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -1738,7 +1708,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-211.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
