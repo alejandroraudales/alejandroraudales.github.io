@@ -180,7 +180,7 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH BACKGROUND VIDEO",
+          "title": "Alejandro Raudales",
           "text": "This is an intro with beautiful background video and image on the left side.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -197,23 +197,10 @@
           "_anchor": "content1-2i",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "text": "<p>&nbsp;\"Open-mindedness is not a fracture the skull\" &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">-Unknown</span></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-25",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "5",
-            "bgColor": "#ffffff"
-          },
-          "text": "<br><blockquote><p><b style=\"font-style: normal;\">Bio (Continued)</b></p><p><br></p><p>This was only noticed when I had entered the technology class in the 6th grade. We had projects involving the functions of Photoshop, and at that moment it was as if everything clicked together. I continued being in the same class, learning about making websites in Dreamweaver and Drawings in Illustrator. Whenever we would do animation, however, I was more excited than any other projects. Once I graduate, I want to pursue my career focusing on 3D animation, and possibly even work in Disney or Pixar.</p></blockquote>"
         },
         {
           "_styles": {
@@ -1564,7 +1551,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-211.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
