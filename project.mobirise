@@ -170,7 +170,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -190,25 +190,25 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "BACKGROUND VIDEO",
-                "showText": true,
+                "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
-                "showText": true,
+                "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
