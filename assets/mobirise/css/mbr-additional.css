@@ -413,6 +413,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-39 .mbr-section-title,
+#header3-39 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -474,9 +478,6 @@ h6,
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #a9cfe6!important;
-}
-#contacts1-3 STRONG {
-  color: #acbdc2;
 }
 
 #menu-4 .hide-buttons .nav-btn {
@@ -548,7 +549,7 @@ h6,
 #header3-1i H3 {
   color: #ffffff;
 }
-#contacts1-5 STRONG {
+#contacts1-1g STRONG {
   color: #acbdc2;
 }
 
@@ -621,7 +622,7 @@ h6,
 #header3-1m H3 {
   color: #ffffff;
 }
-#contacts1-10 STRONG {
+#contacts1-1g STRONG {
   color: #acbdc2;
 }
 #menu-11 .hide-buttons .nav-btn {
@@ -692,7 +693,7 @@ h6,
 #header3-1q H3 {
   color: #ffffff;
 }
-#contacts1-12 STRONG {
+#contacts1-1g STRONG {
   color: #acbdc2;
 }
 #menu-1b .hide-buttons .nav-btn {
@@ -763,7 +764,7 @@ h6,
 #header3-24 H3 {
   color: #ffffff;
 }
-#contacts1-1c STRONG {
+#contacts1-1g STRONG {
   color: #acbdc2;
 }
 
@@ -829,11 +830,11 @@ h6,
 #menu-1d .dropdown-item[aria-expanded="true"] {
   color: #a9cfe6!important;
 }
-#form1-1k .form-control-label {
+#form1-37 .form-control-label {
   color: #232323;
 }
-#contacts1-1e STRONG {
-  color: #acbdc2;
+#form1-37 .mbr-section-title {
+  color: #000000;
 }
 #menu-1f .hide-buttons .nav-btn {
   display: none !important;
@@ -928,11 +929,11 @@ h6,
   color: #ffffff;
 }
 #menu-13 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-13 .dropdown-item,
 #menu-13 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-13 .link:hover,
 #menu-13 .dropdown-item:hover,
@@ -996,11 +997,11 @@ h6,
   color: #ffffff;
 }
 #menu-15 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-15 .dropdown-item,
 #menu-15 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-15 .link:hover,
 #menu-15 .dropdown-item:hover,
@@ -1064,11 +1065,11 @@ h6,
   color: #ffffff;
 }
 #menu-17 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-17 .dropdown-item,
 #menu-17 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-17 .link:hover,
 #menu-17 .dropdown-item:hover,
