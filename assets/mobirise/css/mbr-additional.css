@@ -417,6 +417,13 @@ h6,
 #header3-39 .mbr-section-subtitle {
   text-align: center;
 }
+#social-buttons2-3g .mbr-section-title,
+#social-buttons2-3g .btn-social {
+  color: #232323;
+}
+#social-buttons2-3g .mbr-section-title {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -547,7 +554,7 @@ h6,
   text-align: center;
 }
 #header3-1i H3 {
-  color: #ffffff;
+  color: #232323;
 }
 #contacts1-1g STRONG {
   color: #acbdc2;
@@ -620,7 +627,7 @@ h6,
   text-align: center;
 }
 #header3-1m H3 {
-  color: #ffffff;
+  color: #232323;
 }
 #contacts1-1g STRONG {
   color: #acbdc2;
@@ -691,7 +698,8 @@ h6,
   text-align: center;
 }
 #header3-1q H3 {
-  color: #ffffff;
+  color: #232323;
+  text-align: right;
 }
 #contacts1-1g STRONG {
   color: #acbdc2;
@@ -762,7 +770,7 @@ h6,
   text-align: center;
 }
 #header3-24 H3 {
-  color: #ffffff;
+  color: #232323;
 }
 #contacts1-1g STRONG {
   color: #acbdc2;
@@ -1376,9 +1384,6 @@ h6,
 #header2-2p .mbr-section-text {
   text-align: left;
 }
-#content1-2s P {
-  text-align: center;
-}
 #header3-2v .mbr-section-title,
 #header3-2v .mbr-section-subtitle {
   text-align: center;
@@ -1389,6 +1394,9 @@ h6,
 #features4-2q .iconbox {
   background-color: #cee6f7;
   border-color: #cee6f7;
+}
+#content1-2s P {
+  text-align: center;
 }
 #social-buttons2-2t .mbr-section-title,
 #social-buttons2-2t .btn-social {
