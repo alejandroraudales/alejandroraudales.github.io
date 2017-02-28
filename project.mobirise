@@ -98,8 +98,8 @@
           "_name": "header3",
           "_anchor": "header3-39",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#e7f6ff",
             "showMeta": true
           },
@@ -113,7 +113,7 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": 4,
             "images": [
               {
