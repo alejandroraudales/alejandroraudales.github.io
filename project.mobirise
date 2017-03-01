@@ -3139,7 +3139,7 @@
           "_name": "header3",
           "_anchor": "header3-2v",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#e9f6ff",
             "showMeta": true
@@ -3164,7 +3164,7 @@
           "_anchor": "features4-2q",
           "_params": {
             "iconsBgColor": "#9ccbe2",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
