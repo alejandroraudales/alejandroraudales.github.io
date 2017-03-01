@@ -98,12 +98,12 @@
           "_name": "header3",
           "_anchor": "header3-39",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgColor": "#e7f6ff",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#f0fbff",
             "showMeta": true
           },
-          "title": "Examples of My Work",
+          "title": "Samples of My Work",
           "meta": ""
         },
         {
@@ -160,7 +160,7 @@
             "spacing": "3",
             "showText": true,
             "filter": false,
-            "bgColor": "#e7f6ff",
+            "bgColor": "#f0fbff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -258,10 +258,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -296,7 +296,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -395,7 +395,7 @@
           "_anchor": "menu-4",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -722,7 +722,7 @@
           "_anchor": "menu-z",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1038,7 +1038,7 @@
           "_anchor": "menu-11",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1281,7 +1281,7 @@
           "_anchor": "menu-1b",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1462,7 +1462,7 @@
           "_anchor": "menu-1d",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1619,7 +1619,7 @@
           "_anchor": "menu-1f",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1804,7 +1804,7 @@
           "_anchor": "menu-13",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1980,7 +1980,7 @@
           "_anchor": "menu-15",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2157,7 +2157,7 @@
           "_anchor": "menu-17",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2333,7 +2333,7 @@
           "_anchor": "menu-19",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2510,7 +2510,7 @@
           "_anchor": "menu-1w",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2843,7 +2843,7 @@
           "_anchor": "menu-27",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -3031,7 +3031,7 @@
           "_anchor": "menu-2n",
           "_params": {
             "bgColor": "#394c61",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
