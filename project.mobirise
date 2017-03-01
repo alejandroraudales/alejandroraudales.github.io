@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 145,
+    "uniqCompNum": 146,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -114,7 +114,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 4,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Creative",
@@ -202,13 +202,13 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-3g",
+          "_anchor": "social-buttons2-41",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483053512274-5b45d85ae2e0-2000x1500-21.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
