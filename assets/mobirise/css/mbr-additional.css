@@ -514,11 +514,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #menu-4 .link {
-  font-size: 0.6rem;
+  font-size: 0.75rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.812rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
