@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "socialmedia.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -204,8 +204,8 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-41",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
@@ -230,7 +230,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#41494d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
