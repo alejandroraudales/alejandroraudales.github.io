@@ -514,11 +514,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #menu-4 .link {
-  font-size: 0.65rem;
+  font-size: 0.7rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.758rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -588,11 +588,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #menu-z .link {
-  font-size: 0.65rem;
+  font-size: 0.7rem;
 }
 #menu-z .dropdown-item,
 #menu-z .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.758rem;
 }
 #menu-z .link:hover,
 #menu-z .dropdown-item:hover,
@@ -660,11 +660,11 @@ h6,
   color: #ffffff;
 }
 #menu-11 .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-11 .dropdown-item,
 #menu-11 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-11 .link:hover,
 #menu-11 .dropdown-item:hover,
@@ -736,11 +736,11 @@ h6,
   color: #ffffff;
 }
 #menu-1b .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-1b .dropdown-item,
 #menu-1b .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-1b .link:hover,
 #menu-1b .dropdown-item:hover,
@@ -813,11 +813,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #menu-1d .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-1d .dropdown-item,
 #menu-1d .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-1d .link:hover,
 #menu-1d .dropdown-item:hover,
@@ -880,11 +880,11 @@ h6,
   color: #ffffff;
 }
 #menu-1f .link {
-  font-size: 0.65rem;
+  font-size: 0.7rem;
 }
 #menu-1f .dropdown-item,
 #menu-1f .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.758rem;
 }
 #menu-1f .link:hover,
 #menu-1f .dropdown-item:hover,
@@ -955,11 +955,11 @@ h6,
   color: #ffffff;
 }
 #menu-13 .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-13 .dropdown-item,
 #menu-13 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-13 .link:hover,
 #menu-13 .dropdown-item:hover,
@@ -1027,11 +1027,11 @@ h6,
   color: #ffffff;
 }
 #menu-15 .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-15 .dropdown-item,
 #menu-15 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-15 .link:hover,
 #menu-15 .dropdown-item:hover,
@@ -1099,11 +1099,11 @@ h6,
   color: #ffffff;
 }
 #menu-17 .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-17 .dropdown-item,
 #menu-17 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-17 .link:hover,
 #menu-17 .dropdown-item:hover,
@@ -1171,11 +1171,11 @@ h6,
   color: #ffffff;
 }
 #menu-19 .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-19 .dropdown-item,
 #menu-19 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-19 .link:hover,
 #menu-19 .dropdown-item:hover,
@@ -1243,11 +1243,11 @@ h6,
   color: #ffffff;
 }
 #menu-1w .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-1w .dropdown-item,
 #menu-1w .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-1w .link:hover,
 #menu-1w .dropdown-item:hover,
@@ -1311,11 +1311,11 @@ h6,
   color: #ffffff;
 }
 #menu-27 .link {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 #menu-27 .dropdown-item,
 #menu-27 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.758rem;
 }
 #menu-27 .link:hover,
 #menu-27 .dropdown-item:hover,
@@ -1325,19 +1325,19 @@ h6,
 }
 #menu-27 .link[aria-expanded="true"],
 #menu-27 .dropdown-menu {
-  background: #16171a;
+  background: #263341;
 }
 #menu-27 .nav-dropdown-sm .link:focus,
 #menu-27 .nav-dropdown-sm .link:hover,
 #menu-27 .nav-dropdown-sm .dropdown-item:focus,
 #menu-27 .nav-dropdown-sm .dropdown-item:hover {
-  background: #27282d!important;
+  background: #334457!important;
 }
 #menu-27 .navbar,
 #menu-27 .nav-dropdown-sm,
 #menu-27 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-27 .nav-dropdown-sm .dropdown-menu {
-  background: #2e2f35;
+  background: #394c61;
 }
 #menu-27 .bg-color.transparent .link {
   color: #ffffff;
@@ -1381,11 +1381,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #menu-2n .link {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
 }
 #menu-2n .dropdown-item,
 #menu-2n .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.758rem;
 }
 #menu-2n .link:hover,
 #menu-2n .dropdown-item:hover,
