@@ -568,6 +568,9 @@ h6,
 #header3-3q .mbr-section-subtitle {
   text-align: center;
 }
+#contacts1-28 STRONG {
+  color: #acbdc2;
+}
 
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
@@ -641,6 +644,9 @@ h6,
 #header3-3p .mbr-section-title,
 #header3-3p .mbr-section-subtitle {
   text-align: center;
+}
+#contacts1-28 STRONG {
+  color: #acbdc2;
 }
 #menu-11 .hide-buttons .nav-btn {
   display: none !important;
@@ -861,6 +867,9 @@ h6,
 }
 #form1-37 .mbr-section-title {
   color: #000000;
+}
+#contacts1-28 STRONG {
+  color: #acbdc2;
 }
 #menu-1f .hide-buttons .nav-btn {
   display: none !important;
@@ -1222,7 +1231,7 @@ h6,
 #header3-3v .mbr-section-subtitle {
   text-align: center;
 }
-#contacts1-1a STRONG {
+#contacts1-28 STRONG {
   color: #acbdc2;
 }
 #menu-1w .hide-buttons .nav-btn {
@@ -1459,4 +1468,7 @@ h6,
 }
 #social-buttons2-3j .mbr-section-title {
   color: #ffffff;
+}
+#contacts1-28 STRONG {
+  color: #acbdc2;
 }
