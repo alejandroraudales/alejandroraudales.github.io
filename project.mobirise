@@ -64,7 +64,7 @@
           },
           "title": "Alejandro Raudales",
           "text": "Online Portfolio",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.youtube.com/watch?v=Q-pKQ3-XJYI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Introduction Video</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.youtube.com/watch?v=SmVk5mVXBGw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Introduction Video</a> "
         },
         {
           "_styles": {
@@ -3870,7 +3870,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
