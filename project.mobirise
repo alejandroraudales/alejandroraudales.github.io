@@ -2450,30 +2450,6 @@
           "meta": ""
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Imagine Dragons- Believer Video",
-          "meta": ""
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -3925,7 +3901,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
