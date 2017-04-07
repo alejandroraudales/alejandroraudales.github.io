@@ -2465,7 +2465,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/jelvRF0uyZA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/7EVbppZ3Iq4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -2474,11 +2474,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Imagine Dragons- Believer Video",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=7EVbppZ3Iq4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Youtube Link</a>"
         },
         {
           "_tags": [
@@ -3901,7 +3901,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
