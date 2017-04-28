@@ -3990,7 +3990,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
