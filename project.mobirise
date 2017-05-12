@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "adobepremiere.html",
+    "currentPage": "adobephotoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 166,
+    "uniqCompNum": 167,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -809,6 +809,38 @@
             "showBullets": false
           },
           "_anchor": "slider2-49"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/double-exposure-2000x3111-800x1244.jpg",
+                "image": "@PROJECT_PATH@/assets/images/double-exposure-2000x3111.jpg",
+                "caption": "Double Exposure",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4m",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
