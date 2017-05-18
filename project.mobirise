@@ -824,8 +824,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/double-exposure-small-2000x3111-800x1244.jpg",
-                "image": "@PROJECT_PATH@/assets/images/double-exposure-small-2000x3111.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/double-exposure-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/double-exposure-2000x2800.jpg",
                 "caption": "Double Exposure",
                 "active": true
               }
